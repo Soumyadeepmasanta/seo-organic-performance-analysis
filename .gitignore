@@ -1,0 +1,19 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Tableau local files
+*.twbr
+*.log
+
+# MySQL Workbench local backups
+*.mwb.bak
