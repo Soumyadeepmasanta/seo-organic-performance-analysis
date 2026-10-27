@@ -1,4 +1,4 @@
-# SEO Organic Performance & Commercial Opportunity Intelligence
+# SEO Organic Performance & Commercial Opportunity Intelligence of Simplilearn
 
 An end-to-end SEO analytics project that turns 30,000 organic-search keyword records into actionable content, traffic, and commercial-opportunity insights.
 
